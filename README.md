@@ -60,3 +60,7 @@ Each example includes:
 - label: "entailment" or "non_entailment"
 
 - subcase: one of Passive_Entail, Passive_Swap, Simple_Swap
+
+## 📜 Reference
+
+[^1]: McCoy, R. T., Pavlick, E., & Linzen, T. (2019). **Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in NLI.** *ACL 2019*.
