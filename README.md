@@ -23,6 +23,7 @@ funMDL-toy/
 ├── model/
 │ ├── debug_Bert.py
 │ ├── how_about_better_model.py
+│ └── random_guess.py
 │ └── train_bow.py
 │
 └── README.md
@@ -34,6 +35,7 @@ funMDL-toy/
 - **`model/train_bow.py`**: Trains and evaluates a simple Bag-of-Words logistic regression classifier.
 - **`model/how_about_better_model.py`**: Evaluates pre-trained transformer models (e.g. BERT, DistilBERT) on the control set using HuggingFace pipelines.
 - **`model/debug_Bert.py`**: Utility script for debugging tokenizer behavior and label mappings.
+- **`model/random_guess.py`**: Most basic baseline.
 
 ## 📊 Example Use
 
